@@ -11,10 +11,8 @@ Some examples:
 
 <div align="center">
 <p>
-  MandelBrot sets
-<img width="42%" src="https://www.mcgoodwin.net/julia/mcmmand2.gif" />
-  Julia Sets
-<img width="42%" src="https://www.mcgoodwin.net/julia/mcmjul1.gif" />
+<img width="37%" src="https://www.mcgoodwin.net/julia/mcmmand2.gif" />
+<img width="37%" src="https://www.mcgoodwin.net/julia/mcmjul1.gif" />
 </p>
 
 
